@@ -1,0 +1,9 @@
+[27/11/2026 09:47:32] SIMULACAO VULNERAVEL: tentativa 1 incorreta
+[27/11/2026 09:47:32] SIMULACAO VULNERAVEL: tentativa 2 incorreta
+[27/11/2026 09:47:33] SIMULACAO VULNERAVEL: tentativa 3 incorreta
+[27/11/2026 09:47:33] SIMULACAO VULNERAVEL: tentativa 4 incorreta
+[27/11/2026 09:47:34] SIMULACAO VULNERAVEL: senha de teste encontrada na tentativa 5
+[27/11/2026 09:47:58] SIMULACAO PROTEGIDA: tentativa 1 incorreta
+[27/11/2026 09:47:58] SIMULACAO PROTEGIDA: tentativa 2 incorreta
+[27/11/2026 09:47:59] SIMULACAO PROTEGIDA: tentativa 3 incorreta
+[27/11/2026 09:47:59] SIMULACAO PROTEGIDA: bloqueio após limite de tentativas
